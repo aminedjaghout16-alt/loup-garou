@@ -1,6 +1,0 @@
-git clone https://github.com/YOUR-USERNAME/loup-garou-game.git
-cd loup-garou-game
-cp /mnt/user-data/outputs/* .
-git add .
-git commit -m "Initial commit - Loup-Garou game"
-git push origin main
